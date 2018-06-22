@@ -1,5 +1,6 @@
 
 # Projects
+  (Some of the repos are priate so you may not be able to access them)
 |Project|Branch|Curriculum|Difficulty|Status|
 |:-:|:-:|:-:|:-:|:-:|
 |[Libft](https://github.com/psprawka/Libft)|Base|42|T1|:rooster:|
