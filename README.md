@@ -1,7 +1,7 @@
 
 # Projects
 |Project|Branch|Curriculum|Difficulty|Status
-|:-:|:-:|:-:|:-:|;-;
+|:-:|:-:|:-:|:-:|:-:
 |[Libft](https://github.com/psprawka/Libft)|Base|42|T1|:white_check_mark:|
 |[Fillit](https://github.com/psprawka/Fillit)|Base|42|T1|:white_check_mark:|
 |[GetNextLine](https://github.com/psprawka/Get_Next_Line)|Base|42|T1|:white_check_mark:|
