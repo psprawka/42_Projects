@@ -3,7 +3,7 @@
   (Some of the repos are priate so you may not be able to access them)
   
 |Project|Branch|Curriculum|Difficulty|Language|Status|
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 |[Libft](https://github.com/psprawka/Libft)|Base|42|T1|C|:rooster:|
 |[Fillit](https://github.com/psprawka/Fillit)|Base|42|T1|C|:rooster:|
 |[GetNextLine](https://github.com/psprawka/GetNextLine)|Base|42|T1|C|:rooster:|
