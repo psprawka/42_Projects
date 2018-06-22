@@ -12,6 +12,7 @@
 |[Ft_printf](https://github.com/psprawka/ft_printf)|Algorithms|42|T1|:rooster:|
 |[Ls](https://github.com/psprawka/ft_ls)|Unix|42 Starfleet|T1|:hatched_chick:|
 |[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|:rooster:| 
+|[C++ Piscine](https://github.com/psprawka/Cpp_piscine)||42 Starfleet|T2|:egg:|
 |[Matcha](https://github.com/psprawka/Matcha)|Web|42 Starfleet|T2|:hatching_chick:|
 |[Lem_In](https://github.com/psprawka/Lem-in)|Algorithms|42 Starfleet|T2|:rooster:|
 |[Malloc](https://github.com/psprawka/ft_malloc)|Unix|42 Starfleet|T2|:hatched_chick:|
