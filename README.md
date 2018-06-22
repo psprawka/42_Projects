@@ -4,7 +4,7 @@
 |:-:|:-:|:-:|:-:|:-:
 |[Libft](https://github.com/psprawka/Libft)|Base|42|T1|:white_check_mark:|
 |[Fillit](https://github.com/psprawka/Fillit)|Base|42|T1|:white_check_mark:|
-|[GetNextLine](https://github.com/psprawka/Get_Next_Line)|Base|42|T1|:white_check_mark:|
+|[GetNextLine](https://github.com/psprawka/GetNextLine)|Base|42|T1|:white_check_mark:|
 |[Init](https://github.com/psprawka/init)|DevOps|42 Starfleet|T1|:wrench:|
 |[Docker-1](https://github.com/psprawka/docker-1)|Dev-Ops|42 Starfleet|T1|:white_check_mark:|
 |[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|:white_check_mark:|
