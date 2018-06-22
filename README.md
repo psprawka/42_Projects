@@ -11,7 +11,7 @@
 |[Ls](https://github.com/psprawka/ft_ls)|Unix|42 Starfleet|T1|:hammer_and_wrench:|:family:|
 |[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|:white_check_mark:|:closed_lock_with_key:| 
 |[Matcha](https://github.com/psprawka/Matcha)|Web|42 Starfleet|T2|:hammer_and_wrench:|:closed_lock_with_key:|
-|[Lem_In](https://github.com/psprawka/Lem_in)|Algorithms|42 Starfleet|T2|:white_check_mark:|:family:| 
+|[Lem_In](https://github.com/psprawka/Lem-in)|Algorithms|42 Starfleet|T2|:white_check_mark:|:family:| 
 |[Malloc](https://github.com/psprawka/ft_malloc)|Unix|42 Starfleet|T2|:hammer_and_wrench:|:closed_lock_with_key:|
 |[Nm_otool](https://github.com/psprawka/nm-otool)|Unix|42 Starfleet|T2|:hammer_and_wrench:|:closed_lock_with_key:|
 |[IRC](https://github.com/psprawka/IRC)|Unix|42 Starfleet|T2|:hammer_and_wrench:|:family:|
