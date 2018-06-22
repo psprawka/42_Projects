@@ -2,7 +2,7 @@
 # Projects
 |Project|Branch|Curriculum|Difficulty|Status|Repo
 |:-:|:-:|:-:|:-:|:-:|:-:
-|[Libft](https://github.com/psprawka/Libft)|Base|42|T1|:white_check_mark:|:family:|
+|[Libft](https://github.com/psprawka/Libft)|Base|42|T1|:white_check_mark:|:raised_hand::skin-tone-2:|
 |[Fillit](https://github.com/psprawka/Fillit)|Base|42|T1|:white_check_mark:|:family:|
 |[GetNextLine](https://github.com/psprawka/GetNextLine)|Base|42|T1|:white_check_mark:|:family:|
 |[Init](https://github.com/psprawka/init)|DevOps|42 Starfleet|T1|:hammer_and_wrench:|:closed_lock_with_key:|
