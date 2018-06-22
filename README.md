@@ -26,5 +26,5 @@
 # Hackathons
 |Name|Language|
 |:-:|:-:|
-|[ESPC Hackathon](https://github.com/psprawka/Restoratio)|NO IDEA :joy:|
+|[ESPC Hackathon](https://github.com/psprawka/Restoratio)|HTTP/CSS/JS|
 |||
