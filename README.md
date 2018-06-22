@@ -1,5 +1,5 @@
 
-# Projects
+# 42 Projects
   (Some of the repos are priate so you may not be able to access them)
   
 |Project|Branch|Curriculum|Difficulty|Language|Status|
