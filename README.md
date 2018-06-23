@@ -31,8 +31,7 @@
   <img src="srcs/road3.png" width="36.8%"/>
 </p>
 
-
-
+</br></br>
 # 42 Holly Graph
  ### There are a few branches in 42 Holly Graph (42 curriculum):
 ![](srcs/curriculum.png)
@@ -50,7 +49,7 @@
 |:-:|:-:|:-:|
 |![](srcs/base.png)|![](srcs/algo.png)|![](srcs/unix.png)|
  
- 
+</br></br>
 ## Hackathons
 |Name|Language|
 |:-:|:-:|
