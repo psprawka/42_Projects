@@ -31,12 +31,21 @@
   <img src="srcs/road3.png" width="36.8%"/>
 </p>
 
+
 ## 42 Holly Graph
   There are a few branches in 42 Holly Graph (42 curriculum):
+![](srcs/curriculum.png)
 
-![](srcs/curriculum.jpg)
-</p>
-  
+  1. Basic branch - the beginning of 42 cursus.
+![](srcs/base.png) 
+
+  2. Algorithms branch - the easiest road to take if you like to think logically.
+![](srcs/algo.png)  
+
+  2. Unix branch - the most difficult, but the most useful branch in 42 curriculum.
+![](srcs/unix.png)  
+ 
+ 
 ## Hackathons
 |Name|Language|
 |:-:|:-:|
