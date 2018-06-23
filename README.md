@@ -23,6 +23,7 @@
 |[Zappy](https://github.com/psprawka/Zappy)|Unix|42 Starfleet|T4|C/C++/Pyton|:rooster:|
 
 
+
 # 42 Starfleet Academy - Curriculum
   ### Below there are three quarters of 42 Starfleet Academy (projects and deadlines): 
 <p float="left">
@@ -30,6 +31,7 @@
   <img src="srcs/road2.png" width="32.8%"/> 
   <img src="srcs/road3.png" width="36.8%"/>
 </p>
+
 
 
 # 42 Holly Graph
@@ -48,6 +50,7 @@
 |1. Basic branch - the beginning of 42 cursus.|2. Algorithms branch - the easiest road to take if you like to think logically.|3. Unix branch - the most difficult, but the most useful branch in 42 curriculum.|
 |:-:|:-:|:-:|
 |![](srcs/base.png)|![](srcs/algo.png)|![](srcs/unix.png)|
+ 
  
 ## Hackathons
 |Name|Language|
