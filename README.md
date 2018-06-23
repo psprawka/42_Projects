@@ -26,12 +26,11 @@
 
 |Quarter1             | Quarter2             |  Quarter3            |
 |:-------------------:|:--------------------:|:--------------------:|
-|![](srcs/road1.png)  |  ![](srcs/road2.png) | ![](srcs/road3.png)  |
 
 <p float="left">
-  <img src="srcs/road1.png" width="33%" />
+  <img src="srcs/road1.png" width="31%" />
   <img src="srcs/road2.png" width="33%" /> 
-  <img src="srcs/road3.png" width="33%" />
+  <img src="srcs/road3.png" width="36%" />
 </p>
 
 ## Hackathons
