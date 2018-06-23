@@ -30,9 +30,9 @@
   <img src="srcs/road3.png" width="36.8%"/>
 </p>
 
-<div float="left" width="29.4%">Quarter1</div>
-<div float="left" width="32.8%">Quarter2</div>
-<div float="left" width="36.8%">Quarter3</div>
+<div display: "inline-block" width="29.4%">Quarter1</div>
+<div display: "inline-block" width="32.8%">Quarter2</div>
+<div display: "inline-block" width="36.8%">Quarter3</div>
 
 
 ## Hackathons
