@@ -28,9 +28,9 @@
 |:-------------------:|:--------------------:|:--------------------:|
 
 <p float="left">
-  <img src="srcs/road1.png" width="31%" />
-  <img src="srcs/road2.png" width="33%" /> 
-  <img src="srcs/road3.png" width="36%" />
+  <img src="srcs/road1.png" width="30%" />
+  <img src="srcs/road2.png" width="34%" /> 
+  <img src="srcs/road3.png" width="35%" />
 </p>
 
 ## Hackathons
