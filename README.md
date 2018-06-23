@@ -24,9 +24,11 @@
 
 ## 42 Starfleet Curriculum
 
-|Quarter1             | Quarter2             |  Quarter3            |
-|:-------------------:|:--------------------:|:--------------------:|
-
+<p float="left">
+  <p width="29.4%">Quarter1</p>
+  <p width="32.8%">Quarter2</p>
+  <p width="36.8%">Quarter3</p>
+</p>
 <p float="left">
   <img src="srcs/road1.png" width="29.4%" />
   <img src="srcs/road2.png" width="32.8%" /> 
