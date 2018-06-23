@@ -22,18 +22,13 @@
 |[Corewar](https://github.com/psprawka/corewar)|Algorithms|42 Starfleet|T3|C|:rooster:| 
 |[Zappy](https://github.com/psprawka/Zappy)|Unix|42 Starfleet|T4|C/C++/Pyton|:rooster:|
 
-## 42 Starfleet Curriculum
-
+## 42 Starfleet Academy - Curriculum
+  Below there are three quarters of 42 Starfleet Academy (projects and deadlines): 
 <p float="left">
   <img src="srcs/road1.png" width="29.4%"/>
   <img src="srcs/road2.png" width="32.8%"/> 
   <img src="srcs/road3.png" width="36.8%"/>
 </p>
-
-<div display="inline-block" width="29.4%">Quarter1</div>
-<div display="inline-block" width="32.8%">Quarter2</div>
-<div display="inline-block", width="36.8%">Quarter3</div>
-
 
 ## Hackathons
 |Name|Language|
