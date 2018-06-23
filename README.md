@@ -30,8 +30,8 @@
 
 <p float="left">
   <img src="srcs/road1.png" width="100" />
-  <img src="srcs/road2.png" width="150" /> 
-  <img src="srcs/road3.png" width="300" />
+  <img src="srcs/road2.png" width="110" /> 
+  <img src="srcs/road3.png" width="150" />
 </p>
 
 ## Hackathons
