@@ -24,9 +24,9 @@
 
 ## 42 Starfleet Curriculum
 
-Quarter1             | Quarter2             |  Quarter3
-:-------------------:|:--------------------:|:--------------------:
-![](srcs/road1.png)  |  ![](srcs/road2.png) | ![](srcs/road3.png)
+|Quarter1             | Quarter2             |  Quarter3            |
+|:-------------------:|:--------------------:|:--------------------:|
+|![](srcs/road1.png)  |  ![](srcs/road2.png) | ![](srcs/road3.png)  |
 
 
 ## Hackathons
