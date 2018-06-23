@@ -24,19 +24,15 @@
 
 ## 42 Starfleet Curriculum
 
-| :---         |     :---:      |          ---: |
-|![](srcs/road1.png)|![](srcs/road2.png)|![](srcs/road3.png)|
-| git diff     | git diff       | git diff      |
-
 <p float="left">
   <img src="srcs/road1.png" width="29.4%"/>
   <img src="srcs/road2.png" width="32.8%"/> 
   <img src="srcs/road3.png" width="36.8%"/>
 </p>
 
-<div float="left", width="29.4%">Quarter1</div>
-<div width="32.8%">Quarter2</div>
-<div width="36.8%">Quarter3</div>
+<div float="left" width="29.4%">Quarter1</div>
+<div float="left" width="32.8%">Quarter2</div>
+<div float="left" width="36.8%">Quarter3</div>
 
 
 ## Hackathons
