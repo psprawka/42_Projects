@@ -22,8 +22,7 @@
 |[Corewar](https://github.com/psprawka/corewar)|Algorithms|42 Starfleet|T3|C|:rooster:| 
 |[Zappy](https://github.com/psprawka/Zappy)|Unix|42 Starfleet|T4|C/C++/Pyton|:rooster:|
 
-
-
+</br></br>
 # 42 Starfleet Academy - Curriculum
   ### Below there are three quarters of 42 Starfleet Academy (projects and deadlines): 
 <p float="left">
