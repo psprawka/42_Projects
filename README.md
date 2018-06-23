@@ -1,4 +1,4 @@
-</br>
+
 # 42 Projects
   ### (Some of the repos are priate so you may not be able to access them)
   
@@ -37,15 +37,15 @@
 ![](srcs/curriculum.png)
 
 </br>
- ### 1. Basic branch - the beginning of 42 cursus.
+### 1. Basic branch - the beginning of 42 cursus.
 ![](srcs/base.png) 
 
 </br>
- ### 2. Algorithms branch - the easiest road to take if you like to think logically.
+### 2. Algorithms branch - the easiest road to take if you like to think logically.
 ![](srcs/algo.png)  
 
 </br>
- ### 3. Unix branch - the most difficult, but the most useful branch in 42 curriculum.
+### 3. Unix branch - the most difficult, but the most useful branch in 42 curriculum.
 ![](srcs/unix.png)  
  
 </br></br></br>
