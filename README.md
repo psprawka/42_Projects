@@ -33,9 +33,11 @@
   <img src="srcs/road2.png" width="32.8%"/> 
   <img src="srcs/road3.png" width="36.8%"/>
 </p>
-  <h5 float="left", display="block", width="29.4%">Quarter1</h5>
-  <h5 width="32.8%">Quarter2</h5>
-  <h5 width="36.8%">Quarter3</h5>
+
+<div float="left", width="29.4%">Quarter1</div>
+<div width="32.8%">Quarter2</div>
+<div width="36.8%">Quarter3</div>
+
 
 ## Hackathons
 |Name|Language|
