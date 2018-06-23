@@ -1,5 +1,5 @@
 
-# 42 Projects
+## 42 Projects
   (Some of the repos are priate so you may not be able to access them)
   
 |Project|Branch|Curriculum|Difficulty|Language|Status|
@@ -22,8 +22,14 @@
 |[Corewar](https://github.com/psprawka/corewar)|Algorithms|42 Starfleet|T3|C|:rooster:| 
 |[Zappy](https://github.com/psprawka/Zappy)|Unix|42 Starfleet|T4|C/C++/Pyton|:rooster:|
 
+## 42 Starfleet Curriculum
 
-# Hackathons
+![](srcs/road1.png)
+![](srcs/road2.png)
+![](srcs/road3.png)
+
+
+## Hackathons
 |Name|Language|
 |:-:|:-:|
 |[ESPC Hackathon](https://github.com/psprawka/Restoratio)|HTTP/CSS/JS|
