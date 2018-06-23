@@ -1,4 +1,4 @@
-
+</br>
 # 42 Projects
   ### (Some of the repos are priate so you may not be able to access them)
   
@@ -22,7 +22,7 @@
 |[Corewar](https://github.com/psprawka/corewar)|Algorithms|42 Starfleet|T3|C|:rooster:| 
 |[Zappy](https://github.com/psprawka/Zappy)|Unix|42 Starfleet|T4|C/C++/Pyton|:rooster:|
 
-</br></br>
+</br></br></br>
 # 42 Starfleet Academy - Curriculum
   ### Below there are three quarters of 42 Starfleet Academy (projects and deadlines): 
 <p float="left">
@@ -31,25 +31,24 @@
   <img src="srcs/road3.png" width="36.8%"/>
 </p>
 
-</br></br>
+</br></br></br>
 # 42 Holly Graph
  ### There are a few branches in 42 Holly Graph (42 curriculum):
 ![](srcs/curriculum.png)
 
+</br>
  ### 1. Basic branch - the beginning of 42 cursus.
 ![](srcs/base.png) 
 
+</br>
  ### 2. Algorithms branch - the easiest road to take if you like to think logically.
 ![](srcs/algo.png)  
 
+</br>
  ### 3. Unix branch - the most difficult, but the most useful branch in 42 curriculum.
 ![](srcs/unix.png)  
  
-|1. Basic branch - the beginning of 42 cursus.|2. Algorithms branch - the easiest road to take if you like to think logically.|3. Unix branch - the most difficult, but the most useful branch in 42 curriculum.|
-|:-:|:-:|:-:|
-|![](srcs/base.png)|![](srcs/algo.png)|![](srcs/unix.png)|
- 
-</br></br>
+</br></br></br>
 ## Hackathons
 |Name|Language|
 |:-:|:-:|
