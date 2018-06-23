@@ -1,5 +1,5 @@
 
-# 42 Projects
+# 42 [my] Projects
   ### (Some of the repos are priate so you may not be able to access them)
   
 |Project|Branch|Curriculum|Difficulty|Language|Status|
@@ -24,7 +24,7 @@
 
 </br></br></br>
 # 42 Starfleet Academy - Curriculum
-  ### Below there are three quarters of 42 Starfleet Academy (projects and deadlines): 
+  ### Below there are three quarters (9 months) of 42 Starfleet Academy (projects and deadlines): 
 <p float="left">
   <img src="srcs/road1.png" width="29.4%"/>
   <img src="srcs/road2.png" width="32.8%"/> 
