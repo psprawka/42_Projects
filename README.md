@@ -26,7 +26,7 @@
 
 <p float="left">
 | :---         |     :---:      |          ---: |
-|<img src="srcs/road1.png" width="29.4%"/>|<img src="srcs/road2.png" width="32.8%"/>|<img src="srcs/road3.png" width="36.8%"/>|
+|![](srcs/road1.png)|![](srcs/road2.png)|![](srcs/road3.png)|
 | git diff     | git diff       | git diff      |
 
 <p float="left">
