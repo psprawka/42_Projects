@@ -49,7 +49,7 @@
 ![](srcs/unix.png)  
  
 </br></br></br>
-## Hackathons
+# Hackathons at 42
 |Name|Language|
 |:-:|:-:|
 |[ESPC Hackathon](https://github.com/psprawka/Restoratio)|HTTP/CSS/JS|
