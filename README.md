@@ -24,10 +24,14 @@
 
 ## 42 Starfleet Curriculum
 
-![](srcs/road1.png)
-![](srcs/road2.png)
-![](srcs/road3.png)
+|Quarter1             | Quarter2             |  Quarter3            |
+|:-------------------:|:--------------------:|:--------------------:|
 
+<p float="left">
+  <img src="srcs/road1.png" width="30%" />
+  <img src="srcs/road2.png" width="34%" /> 
+  <img src="srcs/road3.png" width="35%" />
+</p>
 
 ## Hackathons
 |Name|Language|
