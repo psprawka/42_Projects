@@ -24,7 +24,6 @@
 
 ## 42 Starfleet Curriculum
 
-<p float="left">
 | :---         |     :---:      |          ---: |
 |![](srcs/road1.png)|![](srcs/road2.png)|![](srcs/road3.png)|
 | git diff     | git diff       | git diff      |
