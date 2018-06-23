@@ -30,7 +30,7 @@
   <h5 width="36.8%">Quarter3</h5>
 </p>
 <p float="left">
-  <img src="srcs/road1.png" width="29.4%" />
+  <img src="srcs/road1.png" width="29.4%">Q1<img/>
   <img src="srcs/road2.png" width="32.8%" /> 
   <img src="srcs/road3.png" width="36.8%" />
 </p>
