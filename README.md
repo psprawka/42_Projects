@@ -8,7 +8,6 @@
 |[Fillit](https://github.com/psprawka/Fillit)|Base|42|T1|C|:rooster:|
 |[GetNextLine](https://github.com/psprawka/GetNextLine)|Base|42|T1|C|:rooster:|
 |[Ft_printf](https://github.com/psprawka/ft_printf)|Algorithms|42|T1|C|:rooster:|
-|[Init](https://github.com/psprawka/init)|DevOps|42 Starfleet|T1|Shell|:egg:|
 |[Docker-1](https://github.com/psprawka/docker-1)|Dev-Ops|42 Starfleet|T1|Shell|:rooster:|
 |[Ls](https://github.com/psprawka/ft_ls)|Unix|42 Starfleet|T1|C|:hatched_chick:|
 |[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|HTTP/CSS/PHP|:rooster:| 
