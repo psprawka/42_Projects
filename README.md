@@ -10,9 +10,9 @@
 |[Ft_printf](https://github.com/psprawka/ft_printf)|Algorithms|42|T1|C|:rooster:|
 |[Docker-1](https://github.com/psprawka/docker-1)|Dev-Ops|42 Starfleet|T1|Shell|:rooster:|
 |[Ls](https://github.com/psprawka/ft_ls)|Unix|42 Starfleet|T1|C|:hatched_chick:|
-|[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|HTTP/CSS/PHP|:rooster:| 
+|[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|HTML/CSS/PHP|:rooster:| 
 |[C++ Piscine](https://github.com/psprawka/Cpp_piscine)|OOP|42 Starfleet|T2|C++|:egg:|
-|[Matcha](https://github.com/psprawka/Matcha)|Web|42 Starfleet|T2|HTTP/CSS/JS/PHP|:hatching_chick:|
+|[Matcha](https://github.com/psprawka/Matcha)|Web|42 Starfleet|T2|HTML/CSS/JS/PHP|:hatching_chick:|
 |[Lem_In](https://github.com/psprawka/Lem-in)|Algorithms|42 Starfleet|T2|C|:rooster:|
 |[Malloc](https://github.com/psprawka/ft_malloc)|Unix|42 Starfleet|T2|C|:hatched_chick:|
 |[Nm_otool](https://github.com/psprawka/nm-otool)|Unix|42 Starfleet|T2|C|:hatching_chick:|
