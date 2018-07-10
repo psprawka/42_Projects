@@ -11,12 +11,14 @@
 |[Docker-1](https://github.com/psprawka/docker-1)|Dev-Ops|42 Starfleet|T1|Shell|:rooster:|
 |[Ls](https://github.com/psprawka/ft_ls)|Unix|42 Starfleet|T1|C|:hatched_chick:|
 |[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|HTML/CSS/PHP|:rooster:| 
-|[C++ Piscine](https://github.com/psprawka/Cpp_piscine)|OOP|42 Starfleet|T2|C++|:egg:|
+|[C++ Piscine](https://github.com/psprawka/Cpp_piscine)|OOP|42 Starfleet|T2|C++|:rooster:|
 |[Matcha](https://github.com/psprawka/Matcha)|Web|42 Starfleet|T2|HTML/CSS/JS/PHP|:hatching_chick:|
+|[ft_ssl_md5](https://github.com/psprawka/SSL_MD5_SHA256)|Security|42 Starfleet|T2|C|:hatching_chick:|
 |[Lem_In](https://github.com/psprawka/Lem-in)|Algorithms|42 Starfleet|T2|C|:rooster:|
 |[Malloc](https://github.com/psprawka/ft_malloc)|Unix|42 Starfleet|T2|C|:hatched_chick:|
 |[Nm_otool](https://github.com/psprawka/nm-otool)|Unix|42 Starfleet|T2|C|:hatching_chick:|
 |[IRC](https://github.com/psprawka/IRC)|Unix|42 Starfleet|T2|C|:hatched_chick:|
+|[Abstract VM](https://github.com/psprawka/Abstract_VM)|OOP|42 Starfleet|T2|C++|:egg:|
 |[Hypertube](https://github.com/psprawka/Hypertube)|Web|42 Starfleet|T3|JS|:hatching_chick:| 
 |[Corewar](https://github.com/psprawka/corewar)|Algorithms|42 Starfleet|T3|C|:rooster:| 
 |[Zappy](https://github.com/psprawka/Zappy)|Unix|42 Starfleet|T4|C/C++/Pyton|:rooster:|
