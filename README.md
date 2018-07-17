@@ -1,6 +1,6 @@
 
 # 42 [my] Projects
-  ### (Some of the repos are priate so you may not be able to access them)
+  ### (Some of the repos are private so you may not be able to access them)
   
 |Project|Branch|Curriculum|Difficulty|Language|Status|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -13,7 +13,7 @@
 |[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|HTML/CSS/PHP|:rooster:| 
 |[C++ Piscine](https://github.com/psprawka/Cpp_piscine)|OOP|42 Starfleet|T2|C++|:rooster:|
 |[Matcha](https://github.com/psprawka/Matcha)|Web|42 Starfleet|T2|HTML/CSS/JS/PHP|:hatching_chick:|
-|[ft_ssl_md5](https://github.com/psprawka/Ft_ssl)|Security|42 Starfleet|T2|C|:rooster:|
+|[Ft_ssl](https://github.com/psprawka/Ft_ssl)|Security|42 Starfleet|T2|C|:rooster:|
 |[Lem_In](https://github.com/psprawka/Lem-in)|Algorithms|42 Starfleet|T2|C|:rooster:|
 |[Malloc](https://github.com/psprawka/ft_malloc)|Unix|42 Starfleet|T2|C|:hatched_chick:|
 |[Nm_otool](https://github.com/psprawka/nm-otool)|Unix|42 Starfleet|T2|C|:hatching_chick:|
