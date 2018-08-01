@@ -53,5 +53,5 @@
 # Hackathons at 42
 |Name|Language|
 |:-:|:-:|
-|[ESPC Hackathon](https://github.com/psprawka/Restoratio)|HTTP/CSS/JS|
-|[Hackathon II](https://github.com/psprawka/Moodweb)|HTTP/CSS/JS|
+|[ESPC Hackathon](https://github.com/psprawka/Restoratio)|HTML/CSS/JS|
+|[Hackathon II](https://github.com/psprawka/Moodweb)|HTML/CSS/JS|
