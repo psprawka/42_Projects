@@ -20,6 +20,7 @@
 |[IRC](https://github.com/psprawka/IRC)|Unix|42 Starfleet|T2|C|:hatched_chick:|
 |[Abstract VM](https://github.com/psprawka/Abstract_VM)|OOP|42 Starfleet|T2|C++|:rooster:|
 |[LibftASM](https://github.com/psprawka/libftASM)|Unix|42 Starfleet|T2|ASM|:rooster:|
+|[Walking Marvin](https://github.com/psprawka/WalkingMarvin)|AI|42 Starfleet|T2|Python|:hatching_chick:| 
 |[Hypertube](https://github.com/psprawka/Hypertube)|Web|42 Starfleet|T3|JS|:hatching_chick:| 
 |[Corewar](https://github.com/psprawka/corewar)|Algorithms|42 Starfleet|T3|C|:rooster:| 
 |[Zappy](https://github.com/psprawka/Zappy)|Unix|42 Starfleet|T4|C/C++/Pyton|:rooster:|
