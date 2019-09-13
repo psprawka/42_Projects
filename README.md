@@ -7,12 +7,17 @@
 |[Libft](https://github.com/psprawka/Libft)|Base|42|T1|C|:rooster:|
 |[Fillit](https://github.com/psprawka/Fillit)|Base|42|T1|C|:rooster:|
 |[GetNextLine](https://github.com/psprawka/GetNextLine)|Base|42|T1|C|:rooster:|
-|[Ft_printf](https://github.com/psprawka/ft_printf)|Algorithms|42|T1|C|:rooster:|
+|[Init](https://github.com/psprawka/Init)|Dev-Ops|42 Home|T1|Shell|:hatching_chick:|
 |[Docker-1](https://github.com/psprawka/docker-1)|Dev-Ops|42 Starfleet|T1|Shell|:rooster:|
+|[Ft_printf](https://github.com/psprawka/ft_printf)|Algorithms|42|T1|C|:rooster:|
+|[Push_swap](https://github.com/psprawka/push_swap)|Algorithms|42 Home|T1|C|:egg:|
 |[Ls](https://github.com/psprawka/ft_ls)|Unix|42 Starfleet|T1|C|:hatched_chick:|
+|[Minishell](https://github.com/psprawka/Minishell)|Unix|42 Home|T1|C|:hatched_chick:|
+|[Ft_select](https://github.com/psprawka/Ft_select)|Unix|42 Home|T1|C|:egg:|
+|[Ft_script](https://github.com/psprawka/Ft_script)|Unix|42 Home|T1|C|:egg:|
 |[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|HTML/CSS/PHP|:rooster:| 
-|[C++ Piscine](https://github.com/psprawka/Cpp_piscine)|OOP|42 Starfleet|T2|C++|:rooster:|
 |[Matcha](https://github.com/psprawka/Matcha)|Web|42 Starfleet|T2|HTML/CSS/JS/PHP|:hatching_chick:|
+|[C++ Piscine](https://github.com/psprawka/Cpp_piscine)|OOP|42 Starfleet|T2|C++|:rooster:|
 |[Ft_ssl](https://github.com/psprawka/Ft_ssl)|Security|42 Starfleet|T2|C|:rooster:|
 |[Lem_In](https://github.com/psprawka/Lem-in)|Algorithms|42 Starfleet|T2|C|:rooster:|
 |[Malloc](https://github.com/psprawka/ft_malloc)|Unix|42 Starfleet|T2|C|:hatched_chick:|
