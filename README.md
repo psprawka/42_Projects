@@ -42,19 +42,39 @@
 </br></br></br>
 # 42 Holly Graph
  ### There are a few branches in 42 Holly Graph (42 curriculum):
-![](srcs/curriculum.png)
+![](srcs/holly_graph.png)
 </br>
 
 ### 1. Basic branch - the beginning of 42 cursus.
-![](srcs/base.png) 
+![](srcs/basic_b.png) 
 </br>
 
 ### 2. Algorithms branch - the easiest road to take if you like to think logically.
-![](srcs/algo.png)  
+![](srcs/algorithms_b.png)  
 </br>
 
 ### 3. Unix branch - the most difficult, but the most useful branch in 42 curriculum.
-![](srcs/unix.png)  
+![](srcs/unix_b.png)  
+ </br>
+ 
+### 4. Graphics branch - the funniest path for game developers.
+![](srcs/graphics_b.png)  
+</br>
+
+### 5.  Web branch - perfect direction if you want to create websites.
+![](srcs/web_b.png)
+</br>
+
+### 7. OOP branch - the best way to see everything in life as objects. 😛 
+![](srcs/oop_b.png)
+</br>
+
+### 8. DevOps branch - learning how to release features more efficient.
+![](srcs/devops_b.png)  
+</br>
+
+### 9. Security branch - good way to introduce yourself to hacking (maybe).
+![](srcs/security_b.png)  
  
 </br></br></br>
 # Hackathons at 42
