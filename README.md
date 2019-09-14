@@ -21,9 +21,8 @@
 |Project|Branch|Curriculum|Difficulty|Language|Status|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Libft](https://github.com/psprawka/Libft)|Base|42 Cadet|T1|C|:rooster:|
+|[GetNextLine](https://github.com/psprawka/GetNextLine)|Base|42 Cadet|T1|C|:rooster:|
 |[Fillit](https://github.com/psprawka/Fillit)|Base|42 Cadet|T1|C|:rooster:|
-|[GetNextLine](https://github.com/psprawka/GetNextLine)|Base|4 Cadet2|T1|C|:rooster:|
-
 </br>
 
 ### 2. Algorithms branch - the easiest road to take if you like to think logically.
@@ -35,7 +34,6 @@
 |[Push_swap](https://github.com/psprawka/push_swap)|Algorithms|42 Home|T1|C|:egg:|
 |[Lem_In](https://github.com/psprawka/Lem-in)|Algorithms|42 Starfleet|T2|C|:rooster:|
 |[Corewar](https://github.com/psprawka/corewar)|Algorithms|42 Starfleet|T3|C|:rooster:|
-
 </br>
 
 ### 3. Unix branch - the most difficult, but the most useful branch in 42 curriculum.
@@ -43,16 +41,15 @@
 
 |Project|Branch|Curriculum|Difficulty|Language|Status|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Ls](https://github.com/psprawka/ft_ls)|Unix|42 Starfleet|T1|C|:hatched_chick:|
+|[Ft_ls](https://github.com/psprawka/ft_ls)|Unix|42 Starfleet|T1|C|:hatched_chick:|
 |[Minishell](https://github.com/psprawka/Minishell)|Unix|42 Home|T1|C|:hatched_chick:|
 |[Ft_select](https://github.com/psprawka/Ft_select)|Unix|42 Home|T1|C|:egg:|
-|[Ft_script](https://github.com/psprawka/Ft_script)|Unix|42 Home|T1|C|:egg:|
 |[Malloc](https://github.com/psprawka/ft_malloc)|Unix|42 Starfleet|T2|C|:hatched_chick:|
+|[Ft_script](https://github.com/psprawka/Ft_script)|Unix|42 Home|T1|C|:egg:|
 |[Nm_otool](https://github.com/psprawka/nm-otool)|Unix|42 Starfleet|T2|C|:hatching_chick:|
-|[IRC](https://github.com/psprawka/IRC)|Unix|42 Starfleet|T2|C|:hatched_chick:|
 |[LibftASM](https://github.com/psprawka/libftASM)|Unix|42 Starfleet|T2|ASM|:rooster:|
+|[IRC](https://github.com/psprawka/IRC)|Unix|42 Starfleet|T2|C|:hatched_chick:|
 |[Zappy](https://github.com/psprawka/Zappy)|Unix|42 Starfleet|T4|C/C++/Python|:rooster:|
-
  </br>
  
 ### 4. Graphics branch - the funniest path for game developers.
@@ -67,7 +64,6 @@
 |[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|HTML/CSS/PHP|:rooster:| 
 |[Matcha](https://github.com/psprawka/Matcha)|Web|42 Starfleet|T2|HTML/CSS/JS/PHP|:hatching_chick:|
 |[Hypertube](https://github.com/psprawka/Hypertube)|Web|42 Starfleet|T3|JS|:hatching_chick:| 
-
 </br>
 
 ### 7. OOP branch - the best way to see everything in life as objects. 😛 
@@ -77,7 +73,6 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[C++ Piscine](https://github.com/psprawka/Cpp_piscine)|OOP|42 Starfleet|T2|C++|:rooster:|
 |[Abstract VM](https://github.com/psprawka/Abstract_VM)|OOP|42 Starfleet|T2|C++|:rooster:|
-
 </br>
 
 ### 8. DevOps branch - learning how to release features more efficient.
@@ -87,7 +82,6 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Init](https://github.com/psprawka/Init)|Dev-Ops|42 Home|T1|Shell|:hatching_chick:|
 |[Docker-1](https://github.com/psprawka/docker-1)|Dev-Ops|42 Starfleet|T1|Shell|:rooster:|
-
 </br>
 
 ### 9. Security branch - good way to introduce yourself to hacking (maybe).
@@ -95,7 +89,7 @@
 
 |Project|Branch|Curriculum|Difficulty|Language|Status|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Ft_ssl](https://github.com/psprawka/Ft_ssl)|Security|42 Starfleet|T2|C|:rooster:|
+|[Ft_ssl_md5](https://github.com/psprawka/Ft_ssl)|Security|42 Starfleet|T2|C|:rooster:|
 
  
 </br></br></br>
