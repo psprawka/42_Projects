@@ -1,36 +1,4 @@
 
-# 42 [my] Projects
-  ### (Some of the repos are private so you may not be able to access them)
-  
-|Project|Branch|Curriculum|Difficulty|Language|Status|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|[Libft](https://github.com/psprawka/Libft)|Base|42|T1|C|:rooster:|
-|[Fillit](https://github.com/psprawka/Fillit)|Base|42|T1|C|:rooster:|
-|[GetNextLine](https://github.com/psprawka/GetNextLine)|Base|42|T1|C|:rooster:|
-|[Init](https://github.com/psprawka/Init)|Dev-Ops|42 Home|T1|Shell|:hatching_chick:|
-|[Docker-1](https://github.com/psprawka/docker-1)|Dev-Ops|42 Starfleet|T1|Shell|:rooster:|
-|[Ft_printf](https://github.com/psprawka/ft_printf)|Algorithms|42|T1|C|:rooster:|
-|[Push_swap](https://github.com/psprawka/push_swap)|Algorithms|42 Home|T1|C|:egg:|
-|[Ls](https://github.com/psprawka/ft_ls)|Unix|42 Starfleet|T1|C|:hatched_chick:|
-|[Minishell](https://github.com/psprawka/Minishell)|Unix|42 Home|T1|C|:hatched_chick:|
-|[Ft_select](https://github.com/psprawka/Ft_select)|Unix|42 Home|T1|C|:egg:|
-|[Ft_script](https://github.com/psprawka/Ft_script)|Unix|42 Home|T1|C|:egg:|
-|[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|HTML/CSS/PHP|:rooster:| 
-|[Matcha](https://github.com/psprawka/Matcha)|Web|42 Starfleet|T2|HTML/CSS/JS/PHP|:hatching_chick:|
-|[C++ Piscine](https://github.com/psprawka/Cpp_piscine)|OOP|42 Starfleet|T2|C++|:rooster:|
-|[Ft_ssl](https://github.com/psprawka/Ft_ssl)|Security|42 Starfleet|T2|C|:rooster:|
-|[Lem_In](https://github.com/psprawka/Lem-in)|Algorithms|42 Starfleet|T2|C|:rooster:|
-|[Malloc](https://github.com/psprawka/ft_malloc)|Unix|42 Starfleet|T2|C|:hatched_chick:|
-|[Nm_otool](https://github.com/psprawka/nm-otool)|Unix|42 Starfleet|T2|C|:hatching_chick:|
-|[IRC](https://github.com/psprawka/IRC)|Unix|42 Starfleet|T2|C|:hatched_chick:|
-|[Abstract VM](https://github.com/psprawka/Abstract_VM)|OOP|42 Starfleet|T2|C++|:rooster:|
-|[LibftASM](https://github.com/psprawka/libftASM)|Unix|42 Starfleet|T2|ASM|:rooster:|
-|[Walking Marvin](https://github.com/psprawka/WalkingMarvin)|AI|42 Starfleet|T2|Python|:hatching_chick:| 
-|[Hypertube](https://github.com/psprawka/Hypertube)|Web|42 Starfleet|T3|JS|:hatching_chick:| 
-|[Corewar](https://github.com/psprawka/corewar)|Algorithms|42 Starfleet|T3|C|:rooster:| 
-|[Zappy](https://github.com/psprawka/Zappy)|Unix|42 Starfleet|T4|C/C++/Pyton|:rooster:|
-
-</br></br></br>
 # 42 Starfleet Academy - Curriculum
   ### Below there are three quarters (9 months) of 42 Starfleet Academy (projects and deadlines): 
 <p float="left">
@@ -40,21 +8,51 @@
 </p>
 
 </br></br></br>
-# 42 Holly Graph
+# 42 Holly Graph & [my] Projects
+ ### (Some of the repos are private so you may not be able to access them)
  ### There are a few branches in 42 Holly Graph (42 curriculum):
 ![](srcs/holly_graph.png)
+
 </br>
 
 ### 1. Basic branch - the beginning of 42 cursus.
 ![](srcs/basic_b.png) 
+
+|Project|Branch|Curriculum|Difficulty|Language|Status|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Libft](https://github.com/psprawka/Libft)|Base|42 Cadet|T1|C|:rooster:|
+|[Fillit](https://github.com/psprawka/Fillit)|Base|42 Cadet|T1|C|:rooster:|
+|[GetNextLine](https://github.com/psprawka/GetNextLine)|Base|4 Cadet2|T1|C|:rooster:|
+
 </br>
 
 ### 2. Algorithms branch - the easiest road to take if you like to think logically.
-![](srcs/algorithms_b.png)  
+![](srcs/algoritms_b.png)
+
+|Project|Branch|Curriculum|Difficulty|Language|Status|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Ft_printf](https://github.com/psprawka/ft_printf)|Algorithms|42|T1|C|:rooster:|
+|[Push_swap](https://github.com/psprawka/push_swap)|Algorithms|42 Home|T1|C|:egg:|
+|[Lem_In](https://github.com/psprawka/Lem-in)|Algorithms|42 Starfleet|T2|C|:rooster:|
+|[Corewar](https://github.com/psprawka/corewar)|Algorithms|42 Starfleet|T3|C|:rooster:|
+
 </br>
 
 ### 3. Unix branch - the most difficult, but the most useful branch in 42 curriculum.
-![](srcs/unix_b.png)  
+![](srcs/unix_b.png)
+
+|Project|Branch|Curriculum|Difficulty|Language|Status|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Ls](https://github.com/psprawka/ft_ls)|Unix|42 Starfleet|T1|C|:hatched_chick:|
+|[Minishell](https://github.com/psprawka/Minishell)|Unix|42 Home|T1|C|:hatched_chick:|
+|[Ft_select](https://github.com/psprawka/Ft_select)|Unix|42 Home|T1|C|:egg:|
+|[Ft_script](https://github.com/psprawka/Ft_script)|Unix|42 Home|T1|C|:egg:|
+|[Malloc](https://github.com/psprawka/ft_malloc)|Unix|42 Starfleet|T2|C|:hatched_chick:|
+|[Nm_otool](https://github.com/psprawka/nm-otool)|Unix|42 Starfleet|T2|C|:hatching_chick:|
+|[IRC](https://github.com/psprawka/IRC)|Unix|42 Starfleet|T2|C|:hatched_chick:|
+|[LibftASM](https://github.com/psprawka/libftASM)|Unix|42 Starfleet|T2|ASM|:rooster:|
+|[Zappy](https://github.com/psprawka/Zappy)|Unix|42 Starfleet|T4|C/C++/Python|:rooster:|
+
  </br>
  
 ### 4. Graphics branch - the funniest path for game developers.
@@ -63,18 +61,42 @@
 
 ### 5.  Web branch - perfect direction if you want to create websites.
 ![](srcs/web_b.png)
+
+|Project|Branch|Curriculum|Difficulty|Language|Status|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|HTML/CSS/PHP|:rooster:| 
+|[Matcha](https://github.com/psprawka/Matcha)|Web|42 Starfleet|T2|HTML/CSS/JS/PHP|:hatching_chick:|
+|[Hypertube](https://github.com/psprawka/Hypertube)|Web|42 Starfleet|T3|JS|:hatching_chick:| 
+
 </br>
 
 ### 7. OOP branch - the best way to see everything in life as objects. 😛 
 ![](srcs/oop_b.png)
+
+|Project|Branch|Curriculum|Difficulty|Language|Status|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[C++ Piscine](https://github.com/psprawka/Cpp_piscine)|OOP|42 Starfleet|T2|C++|:rooster:|
+|[Abstract VM](https://github.com/psprawka/Abstract_VM)|OOP|42 Starfleet|T2|C++|:rooster:|
+
 </br>
 
 ### 8. DevOps branch - learning how to release features more efficient.
-![](srcs/devops_b.png)  
+![](srcs/devops_b.png)
+
+|Project|Branch|Curriculum|Difficulty|Language|Status|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Init](https://github.com/psprawka/Init)|Dev-Ops|42 Home|T1|Shell|:hatching_chick:|
+|[Docker-1](https://github.com/psprawka/docker-1)|Dev-Ops|42 Starfleet|T1|Shell|:rooster:|
+
 </br>
 
 ### 9. Security branch - good way to introduce yourself to hacking (maybe).
-![](srcs/security_b.png)  
+![](srcs/security_b.png)
+
+|Project|Branch|Curriculum|Difficulty|Language|Status|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Ft_ssl](https://github.com/psprawka/Ft_ssl)|Security|42 Starfleet|T2|C|:rooster:|
+
  
 </br></br></br>
 # Hackathons at 42
