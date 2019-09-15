@@ -21,7 +21,7 @@
 |Project|Branch|Curriculum|Difficulty|Language|Status|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Libft](https://github.com/psprawka/Libft)|Base|42 Cadet|T1|C|:rooster:|
-|[GetNextLine](https://github.com/psprawka/GetNextLine)|Base|42 Cadet|T1|C|:rooster:|
+|[Get_next_line](https://github.com/psprawka/Get_next_line)|Base|42 Cadet|T1|C|:rooster:|
 |[Fillit](https://github.com/psprawka/Fillit)|Base|42 Cadet|T1|C|:rooster:|
 </br>
 
@@ -30,10 +30,10 @@
 
 |Project|Branch|Curriculum|Difficulty|Language|Status|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Ft_printf](https://github.com/psprawka/ft_printf)|Algorithms|42|T1|C|:rooster:|
-|[Push_swap](https://github.com/psprawka/push_swap)|Algorithms|42 Home|T1|C|:egg:|
+|[Ft_printf](https://github.com/psprawka/Ft_printf)|Algorithms|42 Cadet|T1|C|:rooster:|
+|[Push_swap](https://github.com/psprawka/Push_swap)|Algorithms|42 Home|T1|C|:egg:|
 |[Lem_In](https://github.com/psprawka/Lem-in)|Algorithms|42 Starfleet|T2|C|:rooster:|
-|[Corewar](https://github.com/psprawka/corewar)|Algorithms|42 Starfleet|T3|C|:rooster:|
+|[Corewar](https://github.com/psprawka/Corewar)|Algorithms|42 Starfleet|T3|C|:rooster:|
 </br>
 
 ### 3. Unix branch - the most difficult, but the most useful branch in 42 curriculum.
@@ -41,13 +41,16 @@
 
 |Project|Branch|Curriculum|Difficulty|Language|Status|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Ft_ls](https://github.com/psprawka/ft_ls)|Unix|42 Starfleet|T1|C|:hatched_chick:|
+|[Ft_ls](https://github.com/psprawka/Ft_ls)|Unix|42 Starfleet|T1|C|:hatched_chick:|
 |[Minishell](https://github.com/psprawka/Minishell)|Unix|42 Home|T1|C|:hatched_chick:|
+|[21sh](https://github.com/psprawka/21sh)|Unix|42 Home|T2|C|:egg:|
+|[42sh](https://github.com/psprawka/42sh)|Unix|42 Home|T3|C|:egg:|
 |[Ft_select](https://github.com/psprawka/Ft_select)|Unix|42 Home|T1|C|:egg:|
-|[Malloc](https://github.com/psprawka/ft_malloc)|Unix|42 Starfleet|T2|C|:hatched_chick:|
+|[Malloc](https://github.com/psprawka/Ft_malloc)|Unix|42 Starfleet|T2|C|:hatched_chick:|
 |[Ft_script](https://github.com/psprawka/Ft_script)|Unix|42 Home|T1|C|:egg:|
-|[Nm_otool](https://github.com/psprawka/nm-otool)|Unix|42 Starfleet|T2|C|:hatching_chick:|
-|[LibftASM](https://github.com/psprawka/libftASM)|Unix|42 Starfleet|T2|ASM|:rooster:|
+|[Nm_otool](https://github.com/psprawka/Nm-otool)|Unix|42 Starfleet|T2|C|:hatching_chick:|
+|[LibftASM](https://github.com/psprawka/LibftASM)|Unix|42 Starfleet|T2|ASM|:rooster:|
+|[Dr Quine](https://github.com/psprawka/Dr_Quine)|Unix|42 Home|T2|?|:egg:|
 |[IRC](https://github.com/psprawka/IRC)|Unix|42 Starfleet|T2|C|:hatched_chick:|
 |[Zappy](https://github.com/psprawka/Zappy)|Unix|42 Starfleet|T4|C/C++/Python|:rooster:|
  </br>
@@ -62,8 +65,6 @@
 |Project|Branch|Curriculum|Difficulty|Language|Status|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[PHP Piscine](https://github.com/psprawka/Php_piscine)|Web|42 Starfleet|T1|HTML/CSS/PHP|:rooster:| 
-|[Matcha](https://github.com/psprawka/Matcha)|Web|42 Starfleet|T2|HTML/CSS/JS/PHP|:hatching_chick:|
-|[Hypertube](https://github.com/psprawka/Hypertube)|Web|42 Starfleet|T3|JS|:hatching_chick:| 
 </br>
 
 ### 7. OOP branch - the best way to see everything in life as objects. 😛 
@@ -73,6 +74,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[C++ Piscine](https://github.com/psprawka/Cpp_piscine)|OOP|42 Starfleet|T2|C++|:rooster:|
 |[Abstract VM](https://github.com/psprawka/Abstract_VM)|OOP|42 Starfleet|T2|C++|:rooster:|
+|[Bomberman](https://github.com/psprawka/Bomberman)|OOP|42 Home|T3|C++|:egg:|
 </br>
 
 ### 8. DevOps branch - learning how to release features more efficient.
@@ -89,12 +91,4 @@
 
 |Project|Branch|Curriculum|Difficulty|Language|Status|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Ft_ssl_md5](https://github.com/psprawka/Ft_ssl)|Security|42 Starfleet|T2|C|:rooster:|
-
- 
-</br></br></br>
-# Hackathons at 42
-|Name|Language|
-|:-:|:-:|
-|[ESPC Hackathon](https://github.com/psprawka/Restoratio)|HTML/CSS/JS|
-|[Hackathon II](https://github.com/psprawka/Moodweb)|HTML/CSS/JS|
+|[Ft_ssl_md5](https://github.com/psprawka/Ft_ssl_md5)|Security|42 Starfleet|T2|C|:rooster:|
