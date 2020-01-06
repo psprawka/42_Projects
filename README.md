@@ -34,6 +34,7 @@
 |[Push_swap](https://github.com/psprawka/Push_swap)|Algorithms|42 Home|T1|C|:egg:|
 |[Lem_In](https://github.com/psprawka/Lem-in)|Algorithms|42 Starfleet|T2|C|:rooster:|
 |[Corewar](https://github.com/psprawka/Corewar)|Algorithms|42 Starfleet|T3|C|:rooster:|
+|[Computor_V1](https://github.com/psprawka/Computor_V1)|Algorithms|42 Home|T1|Python|:rooster:|
 </br>
 
 ### 3. Unix branch - the most difficult, but the most useful branch in 42 curriculum.
