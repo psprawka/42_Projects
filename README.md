@@ -42,7 +42,7 @@
 
 |Project|Branch|Curriculum|Difficulty|Language|Status|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Ft_ls](https://github.com/psprawka/Ft_ls)|Unix|42 Starfleet|T1|C|:hatched_chick:|
+|[Ft_ls](https://github.com/psprawka/Ft_ls)|Unix|42 Starfleet|T1|C|:rooster:|
 |[Minishell](https://github.com/psprawka/Minishell)|Unix|42 Home|T1|C|:hatched_chick:|
 |[21sh](https://github.com/psprawka/21sh)|Unix|42 Home|T2|C|:egg:|
 |[42sh](https://github.com/psprawka/42sh)|Unix|42 Home|T3|C|:egg:|
